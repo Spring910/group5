@@ -166,32 +166,12 @@ a:hover{
 
 .pagelayout {
     display: grid;
-    grid-template-columns: 1fr;
-    grid-template-rows: 1fr 1fr;
-    grid-template-areas: "table" "video";
+    grid-template-columns: 60% 40%;
+    grid-template-rows: 1fr;
     grid-gap: 1em;
 }
 
-.table {
-    margin: 1em;
-    padding: 1em;
-    display: grid;
-    grid-template-columns: 60% 40%;
-    grid-template-rows: 1fr;
-    grid-template-areas: table;
-}
 
-.table img{
-    display:inherit;
-}
-
-.video{
-    grid-template-areas: video;
-display:block;
-    margin-left: auto;
-    margin-right: auto;
-    width:80%;
-}
 .table ul{
         display: grid;
     grid-template-columns: 1fr;
@@ -201,6 +181,7 @@ display:block;
 .table ul li {
     list-style: none;
     text-align: justify;
+    justify-items: center;
 }
 
 
