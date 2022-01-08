@@ -185,6 +185,10 @@ a:hover{
     justify-items: center;
 }
 
+.video{
+	margin-top: 20px;
+}
+
 
 #search-input {
     width: 90%;
