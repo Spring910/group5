@@ -21,24 +21,28 @@
             </ul>
         </nav>
     </div>
-    <div id="pagelayout">
+
     <div class="container">
-       <h2>{{ page. name }}</h2> 
-       <img src = "{{ page. img-url}}">
-       <p>Birth: {{ page. birth }}</p>
-       <p>Place of origin: {{ page. place-of-origin }}</p>
-       <p>Olympics: {{ page. Olympics }}</p>
-       <p>Ranking: {{ page. Ranking }}</p>
-       <p> Key Awards: {{ page. Key-Awards }}</p>
-       <p>Personalities: {{ page. Personalities }}</p>
-       <p>{{ page. video-url }}></p>
-        
+       <div class="pagelayout">   
+        <div class="table">
+            <img src = "{{ page. img-url}}">
+            <ul>
+            <li><h2>{{ page. name }}</h2> </li>    
+            <li><p>Birth: {{ page. birth }}</p></li>
+            <li><p>Place of origin: {{ page. place-of-origin }}</p></li>
+                <li><p>Olympics: {{ page. Olympics }}</p></li>
+                <li><p>Ranking: {{ page. Ranking }}</p></li>
+                <li><p class="description"> Key Awards: {{ page. Key-Awards }}</p></li>
+                <li><p class="description">Personalities: {{ page. Personalities }}</p></li>
+            </ul>
+        </div>
+    
+    <div class="video">
+    <p>{{ page. video-url }}</p>
     </div>
         
-
-
-        
     </div>
+    
     <footer>
 		<p>Group 5, Web Learners in the Cultural Web</p>
 	</footer>
