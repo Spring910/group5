@@ -164,6 +164,45 @@ a:hover{
      color: whitesmoke;
 }
 
+.pagelayout {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr;
+    grid-template-areas: "table" "video";
+    grid-gap: 1em;
+}
+
+.table {
+    margin: 1em;
+    padding: 1em;
+    display: grid;
+    grid-template-columns: 60% 40%;
+    grid-template-rows: 1fr;
+    grid-template-areas: table;
+}
+
+.table img{
+    display:inherit;
+}
+
+.video{
+    grid-template-areas: video;
+}
+
+.table ul{
+        display: grid;
+    grid-template-columns: 1fr;
+    padding: 0;
+    margin: 0;
+}
+
+.table ul li {
+    list-style: none;
+    padding: 0.2em;
+    text-align: center;
+}
+
+
 #search-input {
     width: 90%;
     height: 35px;
