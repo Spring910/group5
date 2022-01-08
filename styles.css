@@ -182,6 +182,7 @@ a:hover{
 .table ul li {
     list-style: none;
     text-align: justify;
+	color:white;
     justify-items: center;
 }
 
