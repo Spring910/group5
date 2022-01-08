@@ -14,7 +14,7 @@ Before the 2010–11 figure skating season, there were three segments in ice dan
 <div class="gallary">  
 {% for name in site.dance %}
         <div class="card">
-          <a href = "{{ name.url | relative_url }}"><img src="{{ name.img-url }}"></a>
+          <a href = "{{ name.url | relative_url }}"><img class="image" src="{{ name.img-url }}"></a>
           <p class="card-name"><a href = "{{ name.url | relative_url }}">{{ name.name }}</a></p>
         </div>   
 {% endfor %}
