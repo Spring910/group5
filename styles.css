@@ -3,6 +3,11 @@ body{
     font-family: 'Montserrat', sans-serif;
 }
 
+@media screen and (min-width:800px) {
+    .pagelayout {
+        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    }
+
 nav {
 	margin-top: 0;
     margin-bottom: 50px;
