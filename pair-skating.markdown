@@ -13,7 +13,7 @@ Like the other disciplines, pair skating competitions consist of two segments, t
 <div class="gallary">  
 {% for name in site.pair %}
    <div class="card">
-     <a href = "{{ name.url | relative_url }}"><img class="image" src="{{ name.img-url }}"></a>
+     <a href = "{{ name.url | relative_url }}"><img src="{{ name.img-url }}"></a>
      <p class="card-name"><a href = "{{ name.url | relative_url }}">{{ name.name }}</a></p>
     </div>  
 {% endfor %}
