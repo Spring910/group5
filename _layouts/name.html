@@ -23,9 +23,11 @@
     </div>
 
     <div class="container">
-       <div class="pagelayout">   
+       <div class="pagelayout">
+	       <div class="video">
+		       <p class="video">{{ page. video-url }}</p>
+	       </div>
         <div class="table">
-            <img src = "{{ page. img-url}}">
             <ul>
             <li><h2>{{ page. name }}</h2> </li>    
             <li><p>Birth: {{ page. birth }}</p></li>
@@ -36,10 +38,6 @@
                 <li><p class="description">Personalities: {{ page. Personalities }}</p></li>
             </ul>
         </div>
-    
-    <div class="video">
-    <p>{{ page. video-url }}</p>
-    </div>
         
     </div>
     
