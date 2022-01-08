@@ -145,6 +145,7 @@ h1{
   font-weight: 700;
   font-size: 30px;
   text-align: center;
+	text-shadow: 1px 1px black;
   text-transform: uppercase;
   z-index: 1;
   transition: top .5s ease;
