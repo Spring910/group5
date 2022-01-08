@@ -66,6 +66,10 @@ h1{
     text-align: justify;
 }
 
+.para3{
+    color:grey;
+}
+
 .line{
     display: block;
     width: 4em;
@@ -182,6 +186,7 @@ a:hover{
 .table ul li {
     list-style: none;
     text-align: justify;
+	color:white;
     justify-items: center;
 }
 
