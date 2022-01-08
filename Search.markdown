@@ -5,6 +5,7 @@ permalink: /search/
 ---
 
 <!-- Html Elements for Search -->
+<br>
 <p>Search name and Olympics</p>
 <div id="search-container">
     <input type="text" id="search-input" placeholder="Search ...">
