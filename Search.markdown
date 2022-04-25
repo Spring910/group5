@@ -1,7 +1,7 @@
 ---
 layout: index
-title: Search
-permalink: /search/
+title: References
+permalink: /References/
 ---
 
 <!-- Html Elements for Search -->
