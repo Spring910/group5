@@ -11,6 +11,19 @@ layout: index
 
 <p class="para2">This website mainly includes well-known figure skaters in China and their main achievements.</p>
 
+<div class="line2"></div>
+    
+<div class="gallary">  
+    {% for name in site.men %}
+        <div class="card">
+         <a href = "{{ name.url | relative_url }}"><img src="{{ name.img-url }}"></a>
+         <p class="card-name"><a href = "{{ name.url | relative_url }}">{{ name.name }}</a></p>
+ </div>   
+{% endfor %} 
+</div>  
+
+
+
 
 This work is licensed under a
 [Creative Commons Attribution-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nd/4.0/)
