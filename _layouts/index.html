@@ -25,6 +25,16 @@
 			<div class="container">
 			{{ content }}
 			</div>
+	
+<div class="gallary">  
+    {% for name in site.men %}
+        <div class="card">
+         <a href = "{{ name.url | relative_url }}"><img src="{{ name.img-url }}"></a>
+         <p class="card-name"><a href = "{{ name.url | relative_url }}">{{ name.name }}</a></p>
+ </div>   
+{% endfor %} 
+</div>  
+	
 	<footer>
 		<p>Group 5, Web Learners in the Cultural Web</p>
 	</footer>
