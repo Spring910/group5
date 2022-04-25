@@ -26,6 +26,7 @@ layout: index
 {% endfor %} 
 </div>  
 
+<h2>Individual women</h2>
 <div class="line2"></div>
     
 <div class="gallary">  
@@ -36,8 +37,9 @@ layout: index
             <p class="card-name"><a href = "{{ name.url | relative_url }}">{{ name.name }}</a></p>
           </div>    
 {% endfor %}
-</div>  
+</div> 
 
+<h2>Pairs</h2>
 <div class="line2"></div>
     
 <div class="gallary">  
@@ -49,6 +51,7 @@ layout: index
 {% endfor %}
 </div>  
 
+<h2>Ice dancing</h2>
 <div class="line2"></div>
     
 <div class="gallary">  
