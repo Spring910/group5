@@ -14,6 +14,7 @@ layout: index
 <p class="para">The 2022 Winter Olympics will be the first Winter Olympics in China. In anticipation of the Olympics, China has invested a great deal of resources in the development of winter sports, and in the five years since the successful bid for the Olympics, the number of people participating in winter sports nationwide has reached 346 million, with a 24.56% participation rate of the population (news.cctv.com, 2022). What kind of development will the Beijing Olympics bring to Chinese figure skating? We’ll see.
 </p>
 
+<h2>Individual men<h2>
 <div class="line2"></div>
     
 <div class="gallary">  
