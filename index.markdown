@@ -11,6 +11,9 @@ layout: index
 
 <p class="para2">Figure skating is a sport in which individuals, pairs, or groups perform on figure skates on ice. It was the first winter sport to be included in the Olympic Games, when contested at the 1908 Olympics in London. The Olympic disciplines are men's singles, women's singles, pair skating, and ice dance; the four individual disciplines are also combined into a team event, first included in the Winter Olympics in 2014.</p>
 
+<p class="para2">This website mainly includes well-known figure skaters in China and their main achievements.</p>
+
+
 <div class="gallary">  
     {% for name in site.men %}
         <div class="card">
@@ -19,10 +22,6 @@ layout: index
  </div>   
 {% endfor %} 
 </div>  
-
-
-
-<p class="para2">This website mainly includes well-known figure skaters in China and their main achievements.</p>
 
 This work is licensed under a
 [Creative Commons Attribution-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nd/4.0/)
