@@ -5,11 +5,14 @@ layout: index
 <h1>Chinese Figure Skaters</h1>
 
 
-<p class="para2">The 24th Olympic Winter Games (The XXIV Olympic Winter Games), the 2022 Beijing Winter Olympics, is scheduled to open on Friday, February 4, 2022, and close on Sunday, February 20. The Beijing Winter Olympics has 7 major events, 15 sub-events, and 109 minor events. Beijing competition area undertakes all ice events; Yanqing competition area undertakes snowmobile, sled and alpine skiing; Chongli District of Zhangjiakou competition area undertakes all snow sports except snowmobile, sled and alpine skiing .The theme slogan of the Beijing Winter Olympics is "Together to the future". On October 18th, the Beijing Winter Olympics successfully ignited in Greece. On October 20th, the Beijing Winter Olympics Tinder arrived in Beijing.</p>
+<p class="para2">Although figure skating is a sport with a long history, having been included in the Olympic programme as early as 1908, it was not until 1986 that China formed its own national team. As a country with a predominantly subtropical and temperate climate, Chinese have insufficient knowledge about winter sports, many people didn't know about figure skating for the first time until the 2022 Olympics. To date, in China, 87% of winter sports athletes are come from the northeast China (Jilin, Liaoning and Heilongjiang, three of the coldest provinces in China); among figure skaters Olympians, only three of them are non-northeasterners. 
+</p>
 
-<p class="para2">Figure skating is a sport in which individuals, pairs, or groups perform on figure skates on ice. It was the first winter sport to be included in the Olympic Games, when contested at the 1908 Olympics in London. The Olympic disciplines are men's singles, women's singles, pair skating, and ice dance; the four individual disciplines are also combined into a team event, first included in the Winter Olympics in 2014.</p>
+<p class="para2">In regard of the skills, training methods and coaching level, there is still a gap between Chinese figure skaters and the top skaters. However, there are talented skaters such as Lu Chen, Chengjiang Li, Xue Shen \ Hongbo Zhao and Shiyue Wang \ Xinyu Liu, who not only have good technical skills, but also incorporate Chinese cultural elements in their performances They have contributed to the cultural diversity of figure skating by showing Chinese beauty in the world arena. For example, Chen Lu's 'Liang Zhu', Li Chengjiang's 'Crouching Tiger, Hidden Dragon' and Wang Shi Yue Liu Xinyu's 'Kung Fu Panda' are performances that have inspired Chinese skaters around the world and since them, there have slowly been more Chinese element performance on the ice arena.
+</p>
 
-<p class="para2">This website mainly includes well-known figure skaters in China and their main achievements.</p>
+<p class="para2">The 2022 Winter Olympics will be the first Winter Olympics in China. In anticipation of the Olympics, China has invested a great deal of resources in the development of winter sports, and in the five years since the successful bid for the Olympics, the number of people participating in winter sports nationwide has reached 346 million, with a 24.56% participation rate of the population. What kind of development will the Beijing Olympics bring to Chinese figure skating? We’ll see.
+</p>
 
 <div class="line2"></div>
     
