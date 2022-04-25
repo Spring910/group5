@@ -34,6 +34,17 @@ layout: index
 {% endfor %}
 </div>  
 
+<div class="line2"></div>
+    
+<div class="gallary">  
+{% for name in site.pair %}
+   <div class="card">
+     <a href = "{{ name.url | relative_url }}"><img src="{{ name.img-url }}"></a>
+     <p class="card-name"><a href = "{{ name.url | relative_url }}">{{ name.name }}</a></p>
+    </div>  
+{% endfor %}
+</div>  
+
 
 
 
